@@ -1,0 +1,30 @@
+{
+  "name": "avatar-canvas",
+  "version": "1.0.0",
+  "description": "creando un avatar en canvas html5",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trunicz/avatar-canvas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trunicz/avatar-canvas/issues"
+  },
+  "homepage": "https://github.com/trunicz/avatar-canvas#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "2.7.1",
+    "prettier-config-standard": "^5.0.0"
+  },
+  "prettier": "prettier-config-standard"
+}
